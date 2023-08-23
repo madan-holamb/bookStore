@@ -1,0 +1,21 @@
+package com.onlinebookstore.dao;
+
+import java.util.List;
+
+import com.onlinebookstore.pojo.Book22263;
+
+public interface BookDao
+{
+public boolean addBook(Book22263 b);
+public boolean updateBook(Book22263 b);
+public boolean deleteBook(int id);
+public List<Book22263>getAllBooks();
+public List<Book22263>searchByName(String  name);
+public List<Book22263>searchByAuthor(String  author);
+public List<Book22263>searchByPublisher(String  publisher);
+public Book22263 searchById(int bookid);
+public List<Book22263>getAllCategories();
+public List<Book22263>getAllPublishers();
+public List<Book22263>searchByCategory(String  category);
+
+}

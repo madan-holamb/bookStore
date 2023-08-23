@@ -1,0 +1,13 @@
+
+Jul 02, 2022 21:41:43.439 NEW SESSION
+Jul 02, 2022 21:41:43.439 [9548:5324:0702/214143.436:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 02, 2022 21:54:18.597 [9548:5944:0702/215418.597:ERROR:device_event_log_impl.cc(214)] [21:54:18.597] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Oct 17, 2022 21:36:08.349 NEW SESSION
+Oct 17, 2022 21:36:08.349 [11424:11800:1017/213608.336:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 18, 2022 02:36:08.376 [11424:7800:1018/023608.375:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 18, 2022 07:36:06.901 [11424:5252:1018/073606.900:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 18, 2023 07:51:22.802 NEW SESSION
+Aug 18, 2023 07:51:22.802 [2472:2564:0818/075122.737:ERROR:device_event_log_impl.cc(222)] [07:51:22.740] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 18, 2023 09:29:08.178 [2472:2424:0818/092908.177:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2

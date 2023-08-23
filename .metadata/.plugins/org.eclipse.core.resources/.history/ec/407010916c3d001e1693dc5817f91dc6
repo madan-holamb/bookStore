@@ -1,0 +1,13 @@
+package com.onlinebookstore.dao;
+
+import java.util.List;
+
+import com.onlinebookstore.pojo.Orders;
+
+public interface OrderSDao 
+{
+public int placeOrder(Orders o);
+//public int placeOrder(String emailId,double totalBill);
+public List<Orders>getAllOrder();
+public String checkOrderStatus(int orderId);
+}

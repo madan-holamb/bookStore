@@ -1,0 +1,16 @@
+127.0.0.1 - - [29/Jun/2023:21:33:49 +0530] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:51 +0530] "GET /BookStore_22263/index.jsp HTTP/1.1" 200 5007
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:51 +0530] "GET /BookStore_22263/templatemo_style.css HTTP/1.1" 200 5321
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:51 +0530] "GET /BookStore_22263/js/app-ajax.js HTTP/1.1" 200 701
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:51 +0530] "GET /BookStore_22263/images/templatemo_ads.jpg HTTP/1.1" 200 38827
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:51 +0530] "GET /BookStore_22263/images/templatemo_menu_bg.jpg HTTP/1.1" 200 7949
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:51 +0530] "GET /BookStore_22263/images/templatemo_bg.jpg HTTP/1.1" 200 563
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:51 +0530] "GET /BookStore_22263/images/templatemo_header_bg.jpg HTTP/1.1" 200 81569
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:52 +0530] "GET /favicon.ico HTTP/1.1" 404 759
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:56 +0530] "GET /BookStore_22263/search.jsp HTTP/1.1" 200 4430
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:58 +0530] "GET /BookStore_22263/Login.jsp HTTP/1.1" 200 3623
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:33:59 +0530] "GET /BookStore_22263/addCustomer.jsp HTTP/1.1" 200 5031
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:34:00 +0530] "GET /BookStore_22263/contactUs.jsp HTTP/1.1" 200 1572
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:34:04 +0530] "GET /BookStore_22263/aboutUs.jsp HTTP/1.1" 200 1162
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:34:07 +0530] "GET /BookStore_22263/Login.jsp HTTP/1.1" 200 3623
+0:0:0:0:0:0:0:1 - - [29/Jun/2023:21:34:12 +0530] "POST /BookStore_22263/LoginServlet HTTP/1.1" 500 3126

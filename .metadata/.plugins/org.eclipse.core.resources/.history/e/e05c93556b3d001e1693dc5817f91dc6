@@ -1,0 +1,5 @@
+package com.onlineboostore.controller;
+
+public class LoginServlet {
+
+}

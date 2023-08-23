@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+F:\BookStoreProject\BookStore_22263\.metadata\.plugins\org.eclipse.jdt.core
+188078667.index
+1917218691.index
+3251556275.index
+1217665290.index
+2257105507.index
+1865797976.index
+2660891257.index
+2890547698.index
+1153616689.index
+3553326857.index
+1784096665.index
